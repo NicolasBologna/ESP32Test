@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{11A8DD76-328B-46DF-9F39-F559912D0360}") = "NFAppTest", "NFAppTest\NFAppTest.nfproj", "{AD1D6F38-17EB-47FF-B496-BAC5517627A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD1D6F38-17EB-47FF-B496-BAC5517627A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1D6F38-17EB-47FF-B496-BAC5517627A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1D6F38-17EB-47FF-B496-BAC5517627A2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AD1D6F38-17EB-47FF-B496-BAC5517627A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1D6F38-17EB-47FF-B496-BAC5517627A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD1D6F38-17EB-47FF-B496-BAC5517627A2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2B4D461-A897-4EAC-99BF-92CDC55A99E8}
+	EndGlobalSection
+EndGlobal
